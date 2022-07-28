@@ -15,5 +15,5 @@
 * Every single change (and commit) triggers the creation of an artifact.
 ![](images/new%20artifact%20build%20in%20jenkins.jpg)
 * like this one
-* More artifact weere created as the result of adding and commiting jpeg to the read.me files
+* More artifact weere created as the result of adding and commiting jpeg to the read.me file
 ![](images/Capture.JPG)
