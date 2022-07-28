@@ -16,4 +16,4 @@
 ![](images/new%20artifact%20build%20in%20jenkins.jpg)
 * like this one
 * More artifact weere created as the result of adding and commiting jpeg to the read.me files
-![](images/new%20artifact%20build%20in%20jenkins.jpg)
+![](images/Capture.JPG)
