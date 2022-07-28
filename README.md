@@ -2,7 +2,6 @@
 
 ### 1. Maven Project practice
 * Maven was configured in the newly formed Jenkins System to help build jobs.
-
 ### 2. .zip (buiding of artifact)
 ![](images/new%20artifact%20in%20jenkins.jpg)
 * `# yum install zip` into the redhat server (EC2)
